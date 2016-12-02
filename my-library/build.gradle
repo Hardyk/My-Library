@@ -104,7 +104,7 @@ install {
     }
 }
 
-apply plugin: 'com.jfrog.bintray'
+
 
 version = libraryVersion
 
